@@ -11,7 +11,7 @@
 
 # Introduction
 
-	The EXAM PORTAL has the four Modules. The system to conduct Exam in the form of multiple choice questions. In this Exam Portal, questions are based on Java and Relational DataBase Management System (MySQL).
+The EXAM PORTAL has the four Modules. The system to conduct Exam in the form of multiple choice questions. In this Exam Portal, questions are based on Java and Relational DataBase Management System (MySQL).
 
  * Home Page :
 This is the beginning of the Exam Portal to navigate from Log In page and Registration Form.
