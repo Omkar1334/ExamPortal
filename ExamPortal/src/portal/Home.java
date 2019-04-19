@@ -107,40 +107,5 @@ public class Home {
 		JSeparator separator = new JSeparator();
 		separator.setBounds(10, 236, 1350, 2);
 		frame.getContentPane().add(separator);
-		
-		JLabel lblNewLabel = new JLabel("Omkar Kandale");
-		lblNewLabel.setFont(new Font("Tahoma", Font.BOLD | Font.ITALIC, 15));
-		lblNewLabel.setForeground(Color.YELLOW);
-		lblNewLabel.setBackground(Color.WHITE);
-		lblNewLabel.setBounds(1134, 532, 159, 35);
-		frame.getContentPane().add(lblNewLabel);
-		
-		JLabel lblManuNair = new JLabel("Manu Nair");
-		lblManuNair.setForeground(Color.YELLOW);
-		lblManuNair.setFont(new Font("Tahoma", Font.BOLD | Font.ITALIC, 15));
-		lblManuNair.setBackground(Color.WHITE);
-		lblManuNair.setBounds(1134, 578, 159, 35);
-		frame.getContentPane().add(lblManuNair);
-		
-		JLabel lblMangeshBondre = new JLabel("Mangesh Bondre");
-		lblMangeshBondre.setForeground(Color.YELLOW);
-		lblMangeshBondre.setFont(new Font("Tahoma", Font.BOLD | Font.ITALIC, 15));
-		lblMangeshBondre.setBackground(Color.WHITE);
-		lblMangeshBondre.setBounds(1134, 624, 159, 35);
-		frame.getContentPane().add(lblMangeshBondre);
-		
-		JLabel lblAniketBirajdar = new JLabel("Aniket Birajdar");
-		lblAniketBirajdar.setForeground(Color.YELLOW);
-		lblAniketBirajdar.setFont(new Font("Tahoma", Font.BOLD | Font.ITALIC, 15));
-		lblAniketBirajdar.setBackground(Color.WHITE);
-		lblAniketBirajdar.setBounds(1134, 670, 159, 35);
-		frame.getContentPane().add(lblAniketBirajdar);
-		
-		JLabel lblDeveloped = new JLabel("Developed By :-");
-		lblDeveloped.setForeground(Color.YELLOW);
-		lblDeveloped.setFont(new Font("Tahoma", Font.BOLD | Font.ITALIC, 18));
-		lblDeveloped.setBackground(Color.WHITE);
-		lblDeveloped.setBounds(1075, 479, 180, 50);
-		frame.getContentPane().add(lblDeveloped);
 	}
 }
